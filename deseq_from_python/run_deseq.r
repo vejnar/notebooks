@@ -1,11 +1,10 @@
 #!/usr/bin/env Rscript
 
 #
-# Copyright (C) 2017-2022 Charles E. Vejnar
+# Copyright © 2017 Charles E. Vejnar
 #
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# Use of this source code is governed by an MIT-style license that can be
+# found in the LICENSE file or at https://opensource.org/licenses/MIT.
 #
 
 library('DESeq2')
